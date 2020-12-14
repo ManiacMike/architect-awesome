@@ -34,8 +34,6 @@
 	* [RPC](https://github.com/ManiacMike/architect-awesome/blob/master/README.md#rpc)
 		* [Thrift](https://github.com/ManiacMike/architect-awesome/blob/master/README.md#thrift)
 		* [gRPC](https://github.com/ManiacMike/architect-awesome/blob/master/README.md#grpc)
-	* [数据库中间件](https://github.com/ManiacMike/architect-awesome/blob/master/README.md#数据库中间件)
-		* [Sharding Jdbc](https://github.com/ManiacMike/architect-awesome/blob/master/README.md#sharding-jdbc)
 	* [日志系统](https://github.com/ManiacMike/architect-awesome/blob/master/README.md#日志系统)
 		* [日志搜集](https://github.com/ManiacMike/architect-awesome/blob/master/README.md#日志搜集)
 	* [配置中心](https://github.com/ManiacMike/architect-awesome/blob/master/README.md#配置中心)
@@ -380,14 +378,6 @@
 
 * [官方网站](https://grpc.io/)
 * [你应该知道的RPC原理](https://www.cnblogs.com/LBSer/p/4853234.html)
-
-
-## 数据库中间件
-
-### Sharding Jdbc
-
-* [官网](http://shardingjdbc.io/)
-* [源码解析](http://www.iocoder.cn/categories/Sharding-JDBC/?vip&architect-awesome)
 
 ## 日志系统
 
