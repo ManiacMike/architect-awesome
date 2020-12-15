@@ -1170,12 +1170,10 @@ KMP：Knuth-Morris-Pratt算法（简称KMP）
 * [从Java视角理解CPU缓存和伪共享](https://blog.csdn.net/zero__007/article/details/54089730)
 
 ## 进程
-
-TODO
-
 ## 线程
 
-* [线程的生命周期及状态转换详解](https://blog.csdn.net/asdf_1024/article/details/78978437)
+* [知乎：进程与线程的区别](https://www.zhihu.com/question/25532384)
+
 
 ## 协程
 
